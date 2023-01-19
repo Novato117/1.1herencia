@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625397079 source:c:\users\luisf\documents\analisisnumerico\programa2.1herencia\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1633293024 source:c:\users\luisf\documents\libroestruct\programa2.1herencia\main.cpp
+	<iostream>
+	<string.h>
+
